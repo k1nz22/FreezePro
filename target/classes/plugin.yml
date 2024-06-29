@@ -1,0 +1,13 @@
+name: FreezePro
+main: com.k1nz.freezepro.FreezePro
+version: 1.0
+api-version: 1.20
+commands:
+  freeze:
+    description: Zamraża gracza.
+    usage: /freeze [gracz|*]
+    permission: freezepro.freeze
+  unfreeze:
+    description: Odmraża gracza.
+    usage: /unfreeze [gracz|*]
+    permission: freezepro.freeze

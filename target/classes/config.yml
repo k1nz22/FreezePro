@@ -1,0 +1,6 @@
+freeze:
+  title: "&b&lZAMROŻONY"
+  subtitle: "&aPoczekaj na start serwera"
+
+unfreeze:
+  actionbar: "&aZostałeś odmrożony"
